@@ -13,7 +13,7 @@ import edu.mum.cs.cs425.labs.bank.serviceimp.AccountServiceImp;
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class AccountServiceImpTest {
-	
+
 	@Autowired
 	private AccountServiceImp accountService;
 
